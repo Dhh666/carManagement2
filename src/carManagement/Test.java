@@ -57,5 +57,7 @@ public class Test {
 		System.out.println("------------queryByType------------");
 		Car[] car2 = icd.queryByType("X2");
 		print(car2);
+		
+		System.out.println("有没有上传成功");
 	}
 }
