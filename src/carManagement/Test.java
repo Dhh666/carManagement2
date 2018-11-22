@@ -59,5 +59,6 @@ public class Test {
 		print(car2);
 		
 		System.out.println("有没有上传成功");
+		System.out.println("第二次上传是否成功");
 	}
 }
